@@ -33,7 +33,7 @@
 ### Conecte-se comigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/alberto-nunes/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:alberto.nunes@example.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:nunesalberto0@outlook.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 ---
